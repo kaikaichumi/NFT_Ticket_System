@@ -8,6 +8,7 @@
 
 ### Abstract
 
+
 NFT_Ticket_System, provide a platform to deploy your ai generation photo on Ethereum blockchain using ERC-721 standrad protocol.We have web frontend and backend.Frontend input customer data to mint nft,and backend storage customer data and transfer nft to customer cryptocurrency wallet address.
 
 ### Introduction
