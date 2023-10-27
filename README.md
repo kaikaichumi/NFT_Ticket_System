@@ -1,5 +1,5 @@
 <div align="center">
-<h1>AI_Generate&NFT_Ticket_System</h1>
+<h1>NFT_Ticket_System</h1>
 
 <img src="./frontend/src/assets/img/bg1.png" width="50%" height="50%"></img>
 
@@ -8,7 +8,7 @@
 
 ### Abstract
 
-AI_Generate_NFT_Ticket_System, provide a platform to deploy your ai generation photo on Ethereum blockchain using ERC-721 standrad protocol.We have web frontend and backend.Frontend input customer data to mint nft,and backend storage customer data and transfer nft to customer cryptocurrency wallet address.
+NFT_Ticket_System, provide a platform to deploy your ai generation photo on Ethereum blockchain using ERC-721 standrad protocol.We have web frontend and backend.Frontend input customer data to mint nft,and backend storage customer data and transfer nft to customer cryptocurrency wallet address.
 
 ### Introduction
 
