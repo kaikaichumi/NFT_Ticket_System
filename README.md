@@ -37,7 +37,7 @@ Our solution has the following features and advantages:
 - `./backend` is the web backend for project.It is built using .
 Frist:
 ```bash
-git clone https://github.com/crypto0627/AI_Generate_nft_ticket_system.git
+git clone https://github.com/kaikaichumi/NFT_Ticket_System.git
 ```
 
 ## Backend Set Up
